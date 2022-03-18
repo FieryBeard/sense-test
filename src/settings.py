@@ -1,0 +1,10 @@
+DEBUG = True
+
+SERVER_HOST = "127.0.0.1"
+SERVER_PORT = 8080
+
+DB_HOST = "127.0.0.1"
+DB_PORT = 5432
+DB_DATABASE = "sense_test"
+DB_USERNAME = "postgres"
+DB_PASSWORD = ""
